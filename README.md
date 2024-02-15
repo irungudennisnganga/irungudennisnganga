@@ -1,24 +1,15 @@
-# 👋 Hi, I’m
-
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+# 👋 Hi,
+  
+### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.With 1 years of experience in learning software development,I specialize in fullstack development.I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
   
 
-### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.
-With 1 years of experience in learning software development,
-I specialize in fullstack development.
-I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Solo projects 
   
 
 - 🌱 I’m currently learning Javascript and Python  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to React, Python and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -42,7 +33,7 @@ I'm dedicated to collaborate on react projects and thrive in fronted development
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -57,12 +48,6 @@ I'm dedicated to collaborate on react projects and thrive in fronted development
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -71,7 +56,7 @@ I'm dedicated to collaborate on react projects and thrive in fronted development
 <a href="https://github.com/irungudennisnganga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/irungu d" target="_blank">
+<a href="https://dev.to/irungudennisnganga" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dennis irungu" target="_blank">
@@ -92,14 +77,9 @@ I'm dedicated to collaborate on react projects and thrive in fronted development
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
 
 <br/>  
 
@@ -113,5 +93,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
