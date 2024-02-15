@@ -5,16 +5,20 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.With 1 years of experience in learning software development,I specialize in fullstack development.I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
+
+### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.
+With 1 years of experience in learning software development,
+I specialize in fullstack development.
+I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
   
 
-- 🔭 I’m currently working on solo project
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Javascript and Python  
   
 
-- ❓ Ask me about anything related to React, Python and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -76,23 +80,38 @@
 <a href="https://instagram.com/_irungu_d" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>
+</div>  
+  
+
 <br/>  
+
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irungudennisnganga&theme=radical&show_icons=true) 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irungudennisnganga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=irungudennisnganga&&style=flat-square" align="center" />
-
 </div>  
   
+
 <br/>  
 
 <div align="center"></div>
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
