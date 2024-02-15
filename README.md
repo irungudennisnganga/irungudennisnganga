@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/irungudennisnganga/irungudennisnganga/blob/main/me-2.jpg" align="center" style="width: 80%" />
+</div>  
+
+
 # 👋 Hi,
   
 ### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.With 1 years of experience in learning software development,I specialize in fullstack development.I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
