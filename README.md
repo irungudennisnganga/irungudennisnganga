@@ -64,7 +64,7 @@
 <a href="https://dev.to/irungudennisnganga" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/dennis irungu" target="_blank">
+<a href="https://linkedin.com/in/dennis-irungu-aa88b32a8/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_irungu_d" target="_blank">
@@ -76,15 +76,15 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irungudennisnganga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irungudennisnganga&show_icons=true&count_private=true&hide_border=true" style="width: 90%" align="left" /></div>  
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irungudennisnganga&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irungudennisnganga&hide_border=true&layout=compact" align="left" style="width: 90%" />
 <br/>  
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irungudennisnganga&theme=dark&hide_border=false" align="left" style="width: 90%" />
 
 <br/>  
 
