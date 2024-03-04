@@ -85,10 +85,10 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irungudennisnganga&hide_border=true&layout=compact" align="left" style="width: 90%" />
+
 <br/>  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irungudennisnganga&theme=dark&hide_border=false" align="left" style="width: 90%" />
+
 
 <br/>  
 
