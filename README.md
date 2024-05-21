@@ -3,9 +3,8 @@
 </div>  
 
 
-# 👋 Hi,
   
-### <div align="center">I'm Dennis irungu, a software enginer with a passion for learning software development.With 1 years of experience in learning software development,I specialize in fullstack development.I'm dedicated to collaborate on react projects and thrive in fronted development.</div>  
+### <div align="center">Hey there! 👋 I'm Dennis Irungu, a software engineer with one year of experience. My passion lies in full-stack development, specializing in React for frontend magic and Python for backend wizardry. Let's create something amazing together!.</div>  
   
 
 - 🔭 I’m currently working on Solo projects 
