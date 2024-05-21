@@ -72,7 +72,7 @@
   <a href="https://discord.com/channels/1211912997644013578/1211912998114037792" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
 <a href="https://www.youtube.com/channel/UCVdrdbPuTWi2mcD2HgqkkKA" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="28" alt="YouTube logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="YouTube logo" />
 </a>
 
 </div> 
@@ -83,7 +83,11 @@
 
 
 ## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=irungudennisnganga&show_icons=true&count_private=true&hide_border=true" style="width: 90%" align="left" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irungudennisnganga&show_icons=true&count_private=true&hide_border=true&theme=dracula" style="width: 90%" align="left" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irungudennisnganga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="width: 90%" align="left" alt="languages graph"  />
+</div>  
 
 <br/>  
 
@@ -101,7 +105,7 @@
 
 <br/>  
 
-<div align="center"></div>
+
 <br />
 
 
