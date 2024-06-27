@@ -66,9 +66,9 @@
 <a href="https://linkedin.com/in/dennis-irungu-aa88b32a8/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_irungu_d" target="_blank">
+<!-- <a href="https://instagram.com/_irungu_d" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
   <a href="https://discord.com/channels/1211912997644013578/1211912998114037792" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
 <a href="https://www.youtube.com/channel/UCVdrdbPuTWi2mcD2HgqkkKA" target="_blank">
